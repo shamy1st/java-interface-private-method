@@ -45,3 +45,6 @@
                 System.out.println("it is interface private method!");
             }
         }
+
+### Ref
+* https://www.javatpoint.com/java-9-interface-private-methods
